@@ -9,12 +9,12 @@ main:
     url: 
   
   - title: "Research"
-    url: /research/
+    url: /_pages/research.md/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /_pages/teaching.md/    
     
   - title: "CV"
-    url: /cv/
+    url: /_pages/cv.md/    
     
 
