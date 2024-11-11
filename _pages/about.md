@@ -20,6 +20,6 @@ redirect_from:
 
 My research sits at the intersection of domestic politics and international relations, with a substantive focus on US-China relations, Africa-China relations, and Chinese politics and society. I am also interested in policy evaluation and public policy. My work has been published or is forthcoming in _Democratization_, _Business and Politics_, _The Journal of Modern African Studies_, _Journal of Chinese Governance_, _Japanese Journal of Political Science_, and other outlets.
 
-My dissertation project investigates the transition from class identity to national identity and the rising Chinese nationalism in the post-Mao era. I focus on how social, economic, and political factors influence nationalism, and how national superiority increases citizens'support for government redistribution, with heterogeneous effects driven by their self-interest.
+My dissertation project investigates the transition from class identity to national identity and the rising Chinese nationalism in the post-Mao era. I focus on how social, economic, and political factors influence nationalism, and how national superiority increases citizens'support for government redistribution, with heterogeneous effects driven by ideology and self-interest.
 
 Feel free to contact me at [r408l190@ku.edu](mailto:r408l190@ku.edu).
