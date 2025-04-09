@@ -21,7 +21,7 @@ repository               : "rigao66/rigao66.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof.png"
+  avatar           : "prof1.png"
   name             : "Rigao Liu"
   bio              : "Ph.D. Candidate at the University of Kansas "
   email            : "r408l190@ku.edu" 
