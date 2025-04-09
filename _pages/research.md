@@ -30,14 +30,14 @@ Given that intensified US-China competition is likely to shape global politics f
 ## Peer-reviewed Publications
 
 -  Nagao, Haruka, **Rigao Liu**, William Hatungimana, Leeann Youn, and John James Kennedy. “Vaccine diplomacy: The politics of Covid-19 vaccines and Public Opinion in Zimbabwe”, *International Political Science Review*, forthcoming.
--  Keywords: Zimbabwe, COVID-19 vaccine, vaccine diplomacy, vaccination intention, vaccine origin
--  <details>
+    -  Keywords: Zimbabwe, COVID-19 vaccine, vaccine diplomacy, vaccination intention, vaccine origin
+    -  <details>
   
         <summary>Show Abstract</summary>
   
         COVID-19 vaccines were unevenly distributed across the world, with fewer supplies in the Global South. The geopolitical powers who developed the vaccines started engaging in vaccine diplomacy, competing to donate or export their vaccines to other countries. A perspective neglected in this landscape is of those living in countries targeted by the vaccine diplomacy. This study conducted a survey experiment in Zimbabwe to examine the influence of vaccine origins on vaccination intention. The results suggest that vaccine country origins and country image interacted to influence vaccination intention toward American and Chinese vaccines. We also found that there was an interaction effect between vaccine country origins and partisanship in relation to Chinese vaccines. The findings suggest that the utility of vaccine diplomacy as a soft power strategy was affected by the heterogeneous country image fostered through international and local politics.
     
- </details>
+        </details>
 
 - **Liu, Rigao**, Haruka Nagao, and John James Kennedy. [“The Digital Side to Mental Health: Uncovering the Relationship Between Screen-Based Entertainment and Mental Well-being Among Rural Elders in China.”](https://link.springer.com/article/10.1007/s11205-025-03575-0)*Social Indicators Research* (2025): 1-19
     -   Keywords: Aging, Digital use, Mental health, Screen time, Older rural residents, China
