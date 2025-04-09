@@ -50,7 +50,7 @@ Given that intensified US-China competition is likely to shape global politics f
         </details>
 
 
-- Nagao, Haruka, William Hatungimana, **Rigao Liu**, and John James Kennedy."A Party with China: Political Party Affiliation and Perceptions of China in African Countries", *Journal of Modern African Studies* 62, no.2 (2024): 175-199.  
+- Nagao, Haruka, William Hatungimana, **Rigao Liu**, and John James Kennedy.["A Party with China: Political Party Affiliation and Perceptions of China in African Countries."](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/party-with-china-political-party-affiliation-and-perceptions-of-china-in-african-countries/90C728A5570BFE74D514BC9A2AC661E7), *Journal of Modern African Studies* 62, no.2 (2024): 175-199.  
     -   Keywords: Africa, China, public opinion, political party, party affiliation
     -   <details>
 
