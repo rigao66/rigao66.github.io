@@ -29,7 +29,28 @@ Given that intensified US-China competition is likely to shape global politics f
 
 ## Peer-reviewed Publications
 
-- Nagao, Haruka, William Hatungimana, **Rigao Liu**, and John James Kennedy."A Party with China: Political Party Affiliation and Perceptions of China in African Countries", *Journal of Modern African Studies*, forthcoming.  
+-  Nagao, Haruka, **Rigao Liu**, William Hatungimana, Leeann Youn, and John James Kennedy. “Vaccine diplomacy: The politics of Covid-19 vaccines and Public Opinion in Zimbabwe”, *International Political Science Review*, forthcoming.
+-  Keywords: Zimbabwe, COVID-19 vaccine, vaccine diplomacy, vaccination intention, vaccine origin
+-  <details>
+  
+        <summary>Show Abstract</summary>
+  
+        COVID-19 vaccines were unevenly distributed across the world, with fewer supplies in the Global South. The geopolitical powers who developed the vaccines started engaging in vaccine diplomacy, competing to donate or export their vaccines to other countries. A perspective neglected in this landscape is of those living in countries targeted by the vaccine diplomacy. This study conducted a survey experiment in Zimbabwe to examine the influence of vaccine origins on vaccination intention. The results suggest that vaccine country origins and country image interacted to influence vaccination intention toward American and Chinese vaccines. We also found that there was an interaction effect between vaccine country origins and partisanship in relation to Chinese vaccines. The findings suggest that the utility of vaccine diplomacy as a soft power strategy was affected by the heterogeneous country image fostered through international and local politics.
+    
+ </details>
+
+- **Liu, Rigao**, Haruka Nagao, and John James Kennedy. [“The Digital Side to Mental Health: Uncovering the Relationship Between Screen-Based Entertainment and Mental Well-being Among Rural Elders in China.”](https://link.springer.com/article/10.1007/s11205-025-03575-0)*Social Indicators Research* (2025): 1-19
+    -   Keywords: Aging, Digital use, Mental health, Screen time, Older rural residents, China
+    -   <details>
+      
+        <summary>Show Abstract</summary>
+      
+        The aging population in China presents challenges to public health. The massive rural to urban migration over the last decade has left millions of older rural residents behind. Limited communication with their family and friends is leaving many distressed with feelings of loneliness. Consequences can be severe with a greater risk of depression. Moreover, for many older rural adults, depression goes undiagnosed because it is difficult for rural public health officials to identify depressive conditions within village households. The literature finds that the lack of communication with family members and social activities are significant factors in mental health of older individuals. However, few studies examine the relationship between screen time and the mental health of older adults. The objective of this study is to examine the relationship between TV/video consumption and mental health among older rural residents. Using the 2016 and 2018 China Family Panel Studies (CFPS) data, this study conducts longitudinal fixed-effects regression analyses. The results show that screen time (watching TV, movies or video programs) and depression scores have a U-shape curvilinear relationship. Moderate levels of TV/video viewing are correlated with lower depression scores. No access to TV/video entertainment is associated with higher depression scores. An implication of this study may inform village doctors and rural public health officials to identify correlates with depression, and village officials can target resources from town and county public health agencies where it is needed.
+        
+        </details>
+
+
+- Nagao, Haruka, William Hatungimana, **Rigao Liu**, and John James Kennedy."A Party with China: Political Party Affiliation and Perceptions of China in African Countries", *Journal of Modern African Studies* 62, no.2 (2024): 175-199.  
     -   Keywords: Africa, China, public opinion, political party, party affiliation
     -   <details>
 
@@ -38,7 +59,7 @@ Given that intensified US-China competition is likely to shape global politics f
         Most attention on Africa-China relations has centered on China's economic activities. What remains unclear is the role of partisanship in shaping public perceptions of China in African countries. Since the Chinese government builds a favorable relationship with an incumbent party, incumbent party supporters tend to have positive views toward China whereas opposition party supporters perceive China more critically. This study conducts multilevel mixed-effects regression analyses of public opinion across 33 African countries, and finds that opposition party supporters are indeed more critical of China. While opposition parties are motivated by their office-seeking interests, they also hold an incumbent party accountable. This study sheds light on the agency of political parties and their supporters in African countries and the mode (instead of volume) of China's bilateral engagement. 
 
         </details>
-- **Liu, Rigao**, Haruka Nagao, William Hatungimana, Jiakun Jack Zhang, and John James Kennedy. ["The politics of flu vaccines: international collaboration and political partisanship."](https://drive.google.com/file/d/1KNHCocBHF_sbEMqBs0FsSayXSmkrlnsQ/view?usp=sharing)*Japanese Journal of Political Science* (2024): 1-14. 
+- **Liu, Rigao**, Haruka Nagao, William Hatungimana, Jiakun Jack Zhang, and John James Kennedy. ["The politics of flu vaccines: international collaboration and political partisanship."](https://drive.google.com/file/d/1KNHCocBHF_sbEMqBs0FsSayXSmkrlnsQ/view?usp=sharing)*Japanese Journal of Political Science* 25, no. 2 (2024): 61-74. 
     -   Keywords: international collaboration, partisanship, US-China relationship, vaccine hesitancy, vaccine origin
     -   <details>
 
@@ -48,7 +69,7 @@ Given that intensified US-China competition is likely to shape global politics f
 
         </details>
 - **Liu, Rigao**, Haruka Nagao, and William Hatungimana. ["Economic performance and good governance: Examining the role of economic well-being in local governance evaluation in China."](https://www.tandfonline.com/doi/abs/10.1080/23812346.2024.2310437)
- *Journal of Chinese Governance* (2024): 1-20.
+ *Journal of Chinese Governance* 9, no. 2 (2024): 153-172.
    - Keywords: economic well-being, local governance, China
    - <details>
 
@@ -85,11 +106,7 @@ Given that intensified US-China competition is likely to shape global politics f
 
 ## Working Papers
 
-- **Liu, Rigao**, Haruka Nagao, and John James Kennedy. "The Digital Side to Mental Health: Uncovering the Relationship Between Screen-Based Entertainment and Mental Well-being Among Rural Elders in China."
-
 - Chu, Hyoungrohk, **Rigao Liu**, Leeann Youn, William Hatungimana, and Haruka Nagao. "Election Delay: Determinants of Postponing Elections and Public Support During a Crisis Time in Africa." 
-
-- Nagao, Haruka, **Rigao Liu**, William Hatungimana, Leeann Youn, and John James Kennedy. "The Politics of Covid-19 Vaccines and Public Opinion in Zimbabwe."
 
 - Nagao, Haruka, William Hatungimana, **Rigao Liu**, and John James Kennedy. "Perception of China in Zimbabwe: Influence of Partisanship and Media Exposure."   
 
