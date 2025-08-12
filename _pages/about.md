@@ -16,7 +16,7 @@ redirect_from:
 
   gtag('config', 'UA-123521501-1');
 </script>
- I am a Visiting Assistant Professor of Political Science at [Washington & Jefferson College]( https://www.washjeff.edu/) in southwest Pennsylvania. I earned my Ph.D. in Political Science from [the University of Kansas (KU)](https://kups.ku.edu/) in 2025. 
+I am a Visiting Assistant Professor of Political Science at [Washington & Jefferson College (w&J)]( https://www.washjeff.edu/) in southwest Pennsylvania. I earned my Ph.D. in Political Science from [the University of Kansas (KU)](https://kups.ku.edu/). 
  
 My research sits at the intersection of domestic politics and international relations, with a substantive focus on US-China relations, Africa-China relations, and Chinese politics and society. I am also interested in policy evaluation and public policy. My work has been published or is forthcoming in _Democratization_, _Business and Politics_, _The Journal of Modern African Studies_, _Journal of Chinese Governance_, _Japanese Journal of Political Science_, _Social Indicators Research_,
 _International Political Science Review_,and other outlets.
