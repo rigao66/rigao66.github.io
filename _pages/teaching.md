@@ -16,9 +16,13 @@ author_profile: true
   gtag('config', 'UA-123521501-1');
 </script>
 
-At KU, I have gained valuable experience by serving as a teaching assistant, a guest lecturer and as a student research mentor. I am prepared to teach introductory level courses on International Relations, Comparative Politics, and Research Methods. I am excited to offer a wide range of upper-level courses in my areas of expertise, such as East Asian Politics, Chinese Domestic and Foreign Policy, China-Africa Relations, Political Economy, Research Design, and Quantitative and Qualitative Methods. I am also prepared to mentor undergraduate and graduate students with an open-door policy.
+## Washington & Jefferson College
+&nbsp;&nbsp;&nbsp; World Politics
+&nbsp;&nbsp;&nbsp; International Politics
+&nbsp;&nbsp;&nbsp; Politics of East Asia
+&nbsp;&nbsp;&nbsp; International Political Economy
 
-## Teaching Assistant at KU
+## University of Kansas
 &nbsp;&nbsp;&nbsp; Political Science Methods of Inquiry, Spring 2024  
 &nbsp;&nbsp;&nbsp; Introduction to Comparative Politics, Spring 2023  
 &nbsp;&nbsp;&nbsp; Introduction to International Politics, 2021, Spring 2022, Fall 2023  
