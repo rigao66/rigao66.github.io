@@ -17,9 +17,9 @@ author_profile: true
 </script>
 
 ## Washington & Jefferson College
-&nbsp;&nbsp;&nbsp; World Politics
-&nbsp;&nbsp;&nbsp; International Politics
-&nbsp;&nbsp;&nbsp; Politics of East Asia
+&nbsp;&nbsp;&nbsp; World Politics<br>
+&nbsp;&nbsp;&nbsp; International Politics<br>
+&nbsp;&nbsp;&nbsp; Politics of East Asia<br>
 &nbsp;&nbsp;&nbsp; International Political Economy
 
 ## University of Kansas
