@@ -23,7 +23,7 @@ author_profile: true
 {% include base_path %}
 ## Peer-reviewed Publications
 
--  Nagao, Haruka, **Rigao Liu**, William Hatungimana, Leeann Youn, and John James Kennedy. “Vaccine diplomacy: The politics of Covid-19 vaccines and Public Opinion in Zimbabwe”, *International Political Science Review*, forthcoming.
+-  Nagao, Haruka, **Rigao Liu**, William Hatungimana, Leeann Youn, and John James Kennedy. [“Vaccine diplomacy: The politics of Covid-19 vaccines and Public Opinion in Zimbabwe”](https://doi.org/10.1177/01925121251328288), *International Political Science Review*, 0(0).
     -  Keywords: Zimbabwe, COVID-19 vaccine, vaccine diplomacy, vaccination intention, vaccine origin
     -  <details>
   
@@ -33,7 +33,7 @@ author_profile: true
     
         </details>
 
-- **Liu, Rigao**, Haruka Nagao, and John James Kennedy. [“The Digital Side to Mental Health: Uncovering the Relationship Between Screen-Based Entertainment and Mental Well-being Among Rural Elders in China.”](https://link.springer.com/article/10.1007/s11205-025-03575-0)*Social Indicators Research* (2025): 1-19
+- **Liu, Rigao**, Haruka Nagao, and John James Kennedy. [“The Digital Side to Mental Health: Uncovering the Relationship Between Screen-Based Entertainment and Mental Well-being Among Rural Elders in China.”](https://link.springer.com/article/10.1007/s11205-025-03575-0)*Social Indicators Research* (2025): 1-19.
     -   Keywords: Aging, Digital use, Mental health, Screen time, Older rural residents, China
     -   <details>
       
