@@ -21,12 +21,6 @@ author_profile: true
 
 
 {% include base_path %}
-
-I am broadly interested in researching political economy, public opinion, and political behavior in the United States, China, and African nations. My research lies at the intersection of domestic politics and international relations, with a substantive focus on US-China relations, Africa-China relations, and Chinese politics and society.
-
-Given that intensified US-China competition is likely to shape global politics for years to come, I examine (1) how state and non-state actors respond to and navigate the great power competition. Africa has become a key arena for the great power competition due to China's intensive engagement and investments, which have drawn significant attention from American policymakers, African elites, and the public. While many studies focus on the American or Chinese perspective on China's engagement in Africa, my research addresses (2) the important yet understudied African citizens' views of China's involvement and the factors influencing their views.  Within China, US-China competition, as well as China's relations with African nations, fit into the nationalist political narrative.  To better understand domestic factors in shaping China's international engagement, I investigate (3) the impact of domestic politics on China's international expansion and foreign policy decisions, along with the determinants of Chinese citizens' domestic and foreign policy preferences.
-
-
 ## Peer-reviewed Publications
 
 -  Nagao, Haruka, **Rigao Liu**, William Hatungimana, Leeann Youn, and John James Kennedy. “Vaccine diplomacy: The politics of Covid-19 vaccines and Public Opinion in Zimbabwe”, *International Political Science Review*, forthcoming.
